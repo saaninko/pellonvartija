@@ -1,0 +1,3 @@
+{"device_name": "SENSOR 1", "data": "T = 24.0 deg. C, H = 26.0%", "time_utc": "12:13:26 - Apr 18 2022"}
+{"device_name": "SENSOR 1", "data": "T = 24.0 deg. C, H = 26.0%", "time_utc": "12:14:26 - Apr 18 2022"}
+{"device_name": "SENSOR 1", "data": "T = 24.0 deg. C, H = 26.0%", "time_utc": "12:15:26 - Apr 18 2022"}
